@@ -1,0 +1,4 @@
+ccxt
+pandas
+plotly
+kaleido  # needed for static image export (optional but good to have)
